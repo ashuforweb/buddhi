@@ -1,5 +1,5 @@
-def ashu():
-    print("Hello")
+def ashu(x,y):
+    print(x*y)
 
 
-ashu()
+ashu(12,2)
